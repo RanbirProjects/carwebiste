@@ -1,4 +1,4 @@
-# N4 Studio® MERN Clone
+# Car collection webiste ® MERN Clone
 
 This project is a MERN stack clone of the N4 Studio® profile page on Awwwards.
 
